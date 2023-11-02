@@ -1,4 +1,5 @@
 TUGAS STRUKTUR KONDISI
 <P>LATIHAN 1</P>
-![gambar](ss1.png)
+![gambar](kondisi struktur/latihan1.png)
+
 
