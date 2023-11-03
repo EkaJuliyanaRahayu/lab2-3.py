@@ -24,7 +24,25 @@ dan untuk menyelesaikannya.</p>
 
 ![gambar 4](screenshot/ss2.png)
 
+<p>Tugas modul Praktikum 2</p>
+<p>Membuat program sederhana dengan input tiga buah bilangan, dari bilangan ketiga 
+tersebut tampilkan bilangan terbesarnya. gunakan statement if.</p>
+
 ![gambar 5](screenshot/tugaspraktikum2.png)
+
+<p>Langkah-langkah dalam menampilkan input tiga buah bilangan</p>
+
+<p>- Masukkan kode program</p>
+<p>- a,b,c sebagai masukan</p>
+<p>- max = a Variabel deklarasi</p>
+<p>- if jika b lebih besar dari a/max, maka max = a </p>
+<p>- if jika c lebih besar dari a/max, maka max = c</p>
+<p>- Jika kode sudah berhasil dijalankan masukkan angka sesuai yang inginkan</p>
+
+<p>FLOWCHART</p>
+
+![gambar 6](screenshot/flowchart.jpg)
+
 
 
 
