@@ -24,3 +24,7 @@ dan untuk menyelesaikannya.</p>
 
 ![gambar 4](screenshot/ss2.png)
 
+![gambar 5](screenshot/tugaspraktikum2.png)
+
+
+
