@@ -39,9 +39,7 @@ tersebut tampilkan bilangan terbesarnya. gunakan statement if.</p>
 <p>- if jika c lebih besar dari a/max, maka max = c</p>
 <p>- Jika kode sudah berhasil dijalankan input angka sesuai yang inginkan</p>
 
-<p>FLOWCHART</p>
 
-![gambar 6](screenshot/flowchart.jpg)
 
 
 
