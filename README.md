@@ -11,12 +11,16 @@ TUGAS STRUKTUR KONDISI
 
 list.sort sintaks ini berfungsi untuk mengurutkan data
 
-<p>Perulangan</p>
+<p>Tugas Perulangan</p>
+<p>Membuat program dengan perulangan bertingkat (nested) untuk menghasilkan output sebagai berikut:</p>
 
 <p>latihan 1</p>
 
 ![gambar 3](screenshot/ss1.png)
+
 <p>latihan 2</p>
+<p>Menampilkan n bilangan acak yang lebih kecil dari 0,5. nilai n diisi pada saat runtime anda bisa menggunakan kombinasi while
+dan untuk menyelesaikannya.</p>
 
 ![gambar 4](screenshot/ss2.png)
 
