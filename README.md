@@ -37,7 +37,7 @@ tersebut tampilkan bilangan terbesarnya. gunakan statement if.</p>
 <p>- max = a Variabel deklarasi</p>
 <p>- if jika b lebih besar dari a/max, maka max = a </p>
 <p>- if jika c lebih besar dari a/max, maka max = c</p>
-<p>- Jika kode sudah berhasil dijalankan masukkan angka sesuai yang inginkan</p>
+<p>- Jika kode sudah berhasil dijalankan input angka sesuai yang inginkan</p>
 
 <p>FLOWCHART</p>
 
